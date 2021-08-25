@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EarthQuake Watcher</string>
+    <string name="title_activity_maps">EarthQuake Watcher</string>
+    <string name="more_info_text">More Info...</string>
+    <string name="more_information_text">More Information</string>
+    <string name="surrounding_cities_text">Surrounding Cities</string>
+    <string name="close_text">Close</string>
+    <string name="show_list_text">Show List</string>
+</resources>
